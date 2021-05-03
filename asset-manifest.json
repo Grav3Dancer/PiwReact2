@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PiwReact2/static/css/main.a2896cc2.chunk.css",
+    "main.js": "/PiwReact2/static/js/main.9ced8f6d.chunk.js",
+    "main.js.map": "/PiwReact2/static/js/main.9ced8f6d.chunk.js.map",
+    "runtime-main.js": "/PiwReact2/static/js/runtime-main.8a44c2d4.js",
+    "runtime-main.js.map": "/PiwReact2/static/js/runtime-main.8a44c2d4.js.map",
+    "static/js/2.3741bc0e.chunk.js": "/PiwReact2/static/js/2.3741bc0e.chunk.js",
+    "static/js/2.3741bc0e.chunk.js.map": "/PiwReact2/static/js/2.3741bc0e.chunk.js.map",
+    "static/js/3.a8aea497.chunk.js": "/PiwReact2/static/js/3.a8aea497.chunk.js",
+    "static/js/3.a8aea497.chunk.js.map": "/PiwReact2/static/js/3.a8aea497.chunk.js.map",
+    "index.html": "/PiwReact2/index.html",
+    "static/css/main.a2896cc2.chunk.css.map": "/PiwReact2/static/css/main.a2896cc2.chunk.css.map",
+    "static/js/2.3741bc0e.chunk.js.LICENSE.txt": "/PiwReact2/static/js/2.3741bc0e.chunk.js.LICENSE.txt",
+    "static/media/myLogoo.db42603d.png": "/PiwReact2/static/media/myLogoo.db42603d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a44c2d4.js",
+    "static/js/2.3741bc0e.chunk.js",
+    "static/css/main.a2896cc2.chunk.css",
+    "static/js/main.9ced8f6d.chunk.js"
+  ]
+}
